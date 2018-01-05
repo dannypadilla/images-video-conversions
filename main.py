@@ -32,9 +32,9 @@ import cv2
 import os
 import sys
 
-path_to_images = ""
-name_to_new_file = ""
-fps = "" # has to be >= 1.0
+path_to_images = "./tmp_files/" # default?
+name_of_new_file = "" # default?
+fps = "" # has to be >= 1.0; default?
 
 front_slash = "/" # for now
 
