@@ -11,6 +11,7 @@
 
 # Folder/project specific
 created_files/*
+tmp_files/*
 
 # CMAKE
 CMakeCache.txt
